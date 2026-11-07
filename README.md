@@ -3,3 +3,4 @@
 ## 仓库包含内容
 ### 课堂PPT
 - Probability-Chapt1.zip
+- Probability-Chapt2.pdf
