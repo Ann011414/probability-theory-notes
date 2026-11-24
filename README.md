@@ -4,6 +4,7 @@
 ### 课堂PPT
 - Probability-Chapt1.zip
 - Probability-Chapt2.pdf
+- Probability-Chapt3.pdf
 - Probability-Chapt4.pdf
 
 ### 教材
